@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: e2e_testing
+
+server:
+  port: 8084
