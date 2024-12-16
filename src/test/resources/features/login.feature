@@ -1,7 +1,3 @@
-#Feature: Smoketest
-#  Scenario: User can open app
-#    Given I print something
-#    Then Something is printed
 
   Feature: User Login
     Scenario: Successful login

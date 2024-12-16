@@ -6,7 +6,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import org.openqa.selenium.WebDriver;
 
-public class random {
+public class loginSteps {
     WebDriver driver = DriverManager.getDriver();
     WebActions actions = new WebActions(driver);
 
