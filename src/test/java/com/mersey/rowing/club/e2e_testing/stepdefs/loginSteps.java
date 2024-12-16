@@ -27,12 +27,4 @@ public class loginSteps {
             throw new AssertionError("Url mismatch: Expected " + expectedUrl + " but got " + actualUrl);
         }
     }
-//    @Given("a correct username and password is entered")
-//    public void aCorrectUsernameAndPasswordIsEntered() {
-//        System.out.println("Entering usernmae and password");
-//    }
-//    @Then("user is taken to the homepage")
-//    public void userIsTakenToTheHomepage() {
-//        System.out.println("User has reached the homepage");
-//    }
 }
